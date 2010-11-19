@@ -2,14 +2,14 @@
 
 #include "CXLineChart.h"
 
-int main(int argc, char *argv[])
+int main(int argc, char *argv[])SD
 {
 	QApplication a(argc, argv);
 
 	CXLineChart chart;
 
 	
-	//New GIT
+	//New GITDSFSDF
 
 	chart.show();
 	chart.setAxisBottom(QList<QString>()<<"sdfsd"<<"sdfsf"<<"sdfsdf"<<"sdfsdf");
